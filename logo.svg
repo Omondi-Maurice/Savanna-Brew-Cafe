@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100">
+<rect width="420" height="100" rx="18" fill="#6F4E37"/>
+<path d="M28 28h58l-7 42c-2 10-10 17-20 17h-4c-10 0-18-7-20-17z" fill="#F5E9DA"/>
+<path d="M86 38h12c20 0 20 28 0 31l-9 2" fill="none" stroke="#F5E9DA" stroke-width="7"/>
+<path d="M42 20c-8-10 8-13 0-22M58 20c-8-10 8-13 0-22" stroke="#D9822B" stroke-width="4" fill="none"/>
+<text x="118" y="48" font-family="Georgia,serif" font-size="36" fill="#FFFFFF">Savanna Brew</text>
+<text x="120" y="76" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" fill="#F5E9DA">CAFÉ</text></svg>

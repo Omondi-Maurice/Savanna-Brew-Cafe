@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="Fresh Croissant">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6F4E37"/><stop offset="1" stop-color="#2B1B12"/></linearGradient></defs>
+  <rect width="1000" height="700" fill="url(#g)"/>
+  <circle cx="820" cy="110" r="170" fill="#D9822B" opacity=".22"/>
+  <circle cx="130" cy="610" r="230" fill="#D9822B" opacity=".13"/>
+
+        <path d="M270 520c-30-110 20-260 170-300 125-35 245 30 280 155 25 90-20 160-90 190z" fill="#D9822B"/>
+        <path d="M330 485c-5-110 50-205 125-245M440 525c5-125 55-210 120-250M550 525c30-100 65-155 125-180" stroke="#F5E9DA" stroke-width="18" fill="none" stroke-linecap="round"/>
+
+  <text x="500" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#FFFFFF">Fresh Croissant</text>
+  <text x="500" y="680" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#F5E9DA">Baked fresh every morning</text>
+</svg>

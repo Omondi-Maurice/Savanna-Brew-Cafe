@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="A warm welcome">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6F4E37"/><stop offset="1" stop-color="#2B1B12"/></linearGradient></defs>
+  <rect width="1000" height="700" fill="url(#g)"/>
+  <circle cx="820" cy="110" r="170" fill="#D9822B" opacity=".22"/>
+  <circle cx="130" cy="610" r="230" fill="#D9822B" opacity=".13"/>
+
+        <rect x="250" y="260" width="500" height="290" rx="28" fill="#F5E9DA"/>
+        <path d="M290 350h420M290 430h420" stroke="#D9822B" stroke-width="18" stroke-linecap="round"/>
+        <circle cx="390" cy="310" r="18" fill="#6F4E37"/><circle cx="610" cy="310" r="18" fill="#6F4E37"/>
+
+  <text x="500" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#FFFFFF">A warm welcome</text>
+  <text x="500" y="680" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#F5E9DA">The people behind every cup</text>
+</svg>
